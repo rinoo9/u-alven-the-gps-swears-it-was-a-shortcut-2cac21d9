@@ -10,8 +10,8 @@ import os
 import sys
 
 ENTRY = (
-    "The GPS swears the shortcut was real: the road simply moved, the "
-    "bridge retired early, and the river never filed a complaint."
+    "Okay, fine, the shortcut added forty minutes \u2014 but the cornfield "
+    "was scenic, the goat was friendly, and recalculating is my love language."
 )
 
 MAX_CHARS = 200

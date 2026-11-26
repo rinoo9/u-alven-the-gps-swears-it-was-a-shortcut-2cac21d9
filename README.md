@@ -6,9 +6,9 @@
 
 One line of comedy for make.fun's "The GPS Swears It Was a Shortcut" bounty, $2 in USDC. The GPS's own excuse, in its own voice, for sending the driver down the wrong road — smug, defensive, and blaming the map.
 
-> "The map swore the lake was a shortcut, and the lake has never once corrected me, so if anyone here is lying, it's the water."
+> "The GPS swears the shortcut was real: the road simply moved, the bridge retired early, and the river never filed a complaint."
 
-The entry is a single line of 124 characters (limit 200), written to `/output/entry.txt` by `main.py`.
+The entry is a single line of 125 characters (limit 200), written to `/output/entry.txt` by `main.py`.
 
 ## Run it
 

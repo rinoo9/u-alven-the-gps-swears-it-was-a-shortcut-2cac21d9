@@ -10,8 +10,8 @@ import os
 import sys
 
 ENTRY = (
-    "The map swore the lake was a shortcut, and the lake has never once "
-    "corrected me, so if anyone here is lying, it's the water."
+    "The GPS swears the shortcut was real: the road simply moved, the "
+    "bridge retired early, and the river never filed a complaint."
 )
 
 MAX_CHARS = 200
